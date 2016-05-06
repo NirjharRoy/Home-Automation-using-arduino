@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--The following code contains important information regarding the app such as permissions, version icon and starting activity
+AUTHOR- ANINDYA MUKHERJEE -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.abc"
     android:versionCode="1"
@@ -11,9 +13,9 @@
     <uses-permission android:name="android.permission.BLUETOOTH"/>
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
-                     android:maxSdkVersion="18" />
+                     android:maxSdkVersion="23" />
     
-    
+    <!--The android:screenOrientation was set to portrait to fix a bug in release 0.1 that caused the app to crash when the phone was rotated -->
     <application
         android:allowBackup="true"
         android:icon="@mipmap/launcher_icon"
@@ -21,6 +23,7 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.example.abc.MainActivity"
+            android:screenOrientation="portrait"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -22,6 +22,124 @@
                         "endOffset": 316
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 696
+                },
+                "from": {
+                    "file": "C:\\Users\\Anindya\\StudioProjects\\WithU\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 701,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1217
+                },
+                "from": {
+                    "file": "C:\\Users\\Anindya\\StudioProjects\\WithU\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1222,
+                    "endColumn": 112,
+                    "endOffset": 1330
+                },
+                "from": {
+                    "file": "C:\\Users\\Anindya\\StudioProjects\\WithU\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1355,
+                        "endColumn": 119,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1335,
+                    "endColumn": 94,
+                    "endOffset": 1425
+                },
+                "from": {
+                    "file": "C:\\Users\\Anindya\\StudioProjects\\WithU\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1476,
+                        "endColumn": 101,
+                        "endOffset": 1573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1430,
+                    "endColumn": 116,
+                    "endOffset": 1542
+                },
+                "from": {
+                    "file": "C:\\Users\\Anindya\\StudioProjects\\WithU\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1579,
+                        "endColumn": 123,
+                        "endOffset": 1698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1547,
+                    "endColumn": 124,
+                    "endOffset": 1667
+                },
+                "from": {
+                    "file": "C:\\Users\\Anindya\\StudioProjects\\WithU\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1704,
+                        "endColumn": 131,
+                        "endOffset": 1831
+                    }
+                }
             }
         ]
     }

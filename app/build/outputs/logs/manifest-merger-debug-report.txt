@@ -1,71 +1,75 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:4:1-36:12
 	package
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:3:5-30
-		INJECTED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml
-	android:versionName
 		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:5:5-30
 		INJECTED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:4:5-28
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:6:5-28
 		INJECTED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:4:11-69
 uses-sdk
-ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:7:5-9:41
+ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:appcompat-v7:19.0.0] C:\Users\Anindya\StudioProjects\WithU\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.0\AndroidManifest.xml:18:5-42
 	android:targetSdkVersion
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:9:9-38
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:11:9-38
 		INJECTED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:10:9-35
 		INJECTED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.SEND_SMS
-ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:10:5-67
+ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:10:22-64
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:11:5-67
+ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:13:5-67
 	android:name
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:11:22-65
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:13:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:12:5-73
+ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:14:5-73
 	android:name
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:12:22-71
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:14:22-71
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:13:5-14:51
+ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:15:5-16:51
 	android:maxSdkVersion
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:14:22-48
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:16:22-48
 	android:name
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:13:22-78
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:15:22-78
 application
-ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:17:5-31:19
+ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:19:5-34:19
+MERGED from [com.android.support:appcompat-v7:19.0.0] C:\Users\Anindya\StudioProjects\WithU\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.0\AndroidManifest.xml:19:5-20
 	android:label
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:20:9-41
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:22:9-41
 	android:allowBackup
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:20:9-35
 	android:icon
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:19:9-45
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:21:9-45
 	android:theme
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:21:9-40
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:23:9-40
 activity#com.example.abc.MainActivity
-ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:22:9-30:20
+ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:24:9-33:20
+	android:screenOrientation
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:26:13-49
 	android:label
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:24:13-45
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:27:13-45
 	android:name
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:23:13-56
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:25:13-56
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:25:13-29:29
+ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:28:13-32:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:26:17-69
+ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:26:25-66
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:28:17-77
+ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:28:27-74
+		ADDED from C:\Users\Anindya\StudioProjects\WithU\app\src\main\AndroidManifest.xml:31:27-74

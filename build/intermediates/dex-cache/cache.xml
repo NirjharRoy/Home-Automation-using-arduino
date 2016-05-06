@@ -5,22 +5,29 @@
         jar="C:\Users\Anindya\StudioProjects\WithU\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="3f6e5123f9639cfcbc16fec03d6e50510e835ebc">
+        sha1="0629a6a21f06ec72925154785c861576ba697cd6">
         <dex dex="C:\Users\Anindya\StudioProjects\WithU\app\build\intermediates\pre-dexed\debug\instant-run_d724efbe13a5a02d212d21470589a10f0d47f8cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Anindya\StudioProjects\WithU\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eb69b5c2e53e59d82f7439f3217f46f9d98f0c89">
+        <dex dex="C:\Users\Anindya\StudioProjects\WithU\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.0.0_5cf5737206f1f788768bd1a08aa54131906428f4.jar" />
     </item>
     <item
         jar="C:\Users\Anindya\StudioProjects\WithU\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="5be28c92bebedbb0a4c3ce099b8d0df8446fb373">
+        sha1="252f050d7702a15926984ee6518362a349169f8b">
         <dex dex="C:\Users\Anindya\StudioProjects\WithU\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_87df0590344e590ac6c0de696852ede31d0ae6c6.jar" />
     </item>
     <item
-        jar="G:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jar="G:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.0\support-v4-19.0.0.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\Anindya\StudioProjects\WithU\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_64f09b16ee0c9aa8da18b213fed6aad68a07e845.jar" />
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="C:\Users\Anindya\StudioProjects\WithU\app\build\intermediates\pre-dexed\debug\support-v4-19.0.0_b468885cf7e61ce659dfed8d41e580777ed50826.jar" />
     </item>
 
 </items>
